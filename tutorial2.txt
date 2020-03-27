@@ -1,0 +1,7 @@
+this is git tutorial commands to 
+touch text1.txt text2.txt text3.txt 
+start text1.txt
+git init
+git status
+git add text1.txt
+git log
