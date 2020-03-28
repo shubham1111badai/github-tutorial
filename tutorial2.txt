@@ -5,3 +5,5 @@ git init
 git status
 git add text1.txt
 git log
+
+git clone address
