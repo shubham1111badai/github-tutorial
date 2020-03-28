@@ -1,1 +1,2 @@
 this is my first git tutorial practice as text 1
+this is inside another planet
